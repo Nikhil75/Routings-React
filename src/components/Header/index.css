@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.wave {
+  height: 3vh;
+}
+ul {
+  list-style: none;
+}
+.nav-bar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #12022f;
+}
+.logoAndBrand {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+.logobrand {
+  margin-left: 10px;
+  font-weight: bold;
+}
+.links {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  margin-right: 30px;
+}
+.nav-link {
+  margin-right: 20px;
+  text-decoration: none;
+}
+.about {
+  margin-right: 20px;
+}

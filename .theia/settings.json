@@ -1,0 +1,11 @@
+{
+    "material-icon-theme.files.associations": {},
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.port": 5000,
+    "liveServer.settings.https": {
+        "enable": false,
+        "cert": "",
+        "key": "",
+        "passphrase": ""
+    }
+}
